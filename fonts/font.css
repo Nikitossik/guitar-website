@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Cal Sans';
+    src: url('CalSans-SemiBold.woff2') format('woff2'),
+        url('CalSans-SemiBold.woff') format('woff'),
+        url('CalSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cal Sans';
+    src: url('CalSans-SemiBold_1.woff2') format('woff2'),
+        url('CalSans-SemiBold_1.woff') format('woff'),
+        url('CalSans-SemiBold_1.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cal Sans';
+    src: url('CalSans-SemiBold_2.woff2') format('woff2'),
+        url('CalSans-SemiBold_2.woff') format('woff'),
+        url('CalSans-SemiBold_2.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cal Sans';
+    src: url('CalSans-SemiBold_3.woff2') format('woff2'),
+        url('CalSans-SemiBold_3.woff') format('woff'),
+        url('CalSans-SemiBold_3.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
